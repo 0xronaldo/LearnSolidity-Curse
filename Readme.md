@@ -6,6 +6,6 @@ nivel de Web3 en el que se tenga un amplio desarrollo como desarrollador de cont
 
 ### Tabla de Contenido: 
 
-**Introduccion**
+1. **Introduccion**
 
 
