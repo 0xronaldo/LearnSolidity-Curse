@@ -9,3 +9,7 @@ nivel de Web3 en el que se tenga un amplio desarrollo como desarrollador de cont
 1. **Introduccion**
 
 
+
+
+Solidity es un lenguaje de programacion enfocado en el desarrollo de contratos inteligentes
+
